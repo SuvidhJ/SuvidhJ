@@ -205,10 +205,10 @@ Here are some ideas to get you started:
 
 ### Get in touch
 - Email: suvidh.jain3@gmail.com
-- Site: <WEBSITE_OR_PORTFOLIO>
+- Site: https://portfolio-zeta-two-58.vercel.app/
 - Location: Surat
 <!-- - Twitter: https://twitter.com/<TWITTER_HANDLE> -->
-- LinkedIn: https://www.linkedin.com/in/www.linkedin.com/in/suvidh-jain-72a88728a/
+- LinkedIn: https://www.linkedin.com/in/suvidh-jain-72a88728a/
 
 <!-- Optional: Snake (enable the workflow below, then uncomment) -->
 <!--
