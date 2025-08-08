@@ -46,20 +46,20 @@ Here are some ideas to get you started:
 
   <!-- Follow + Contact (all live, no hard-coded numbers) -->
   <p>
-    <a href="https://github.com/SuvidhJ?tab=followers">
+    <a href="https://github.com/SuvidhJ">
       <img src="https://img.shields.io/github/followers/SuvidhJ?label=Followers&logo=github&style=for-the-badge" alt="GitHub followers" />
     </a>
     <a href="mailto:suvidh.jain3@gmail.com">
       <img src="https://img.shields.io/badge/Email-%3CEMAIL%3E-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://<WEBSITE_OR_PORTFOLIO>](https://portfolio-zeta-two-58.vercel.app/">
+    <a href="https://portfolio-zeta-two-58.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-Visit-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <!-- Optional socials -->
 <!--     <a href="https://twitter.com/<TWITTER_HANDLE>">
       <img src="https://img.shields.io/badge/Twitter-@<TWITTER_HANDLE>-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
     </a> -->
-    <a href="https://www.linkedin.com/in/www.linkedin.com/in/suvidh-jain-72a88728a/">
+    <a href="https://www.linkedin.com/in/suvidh-jain-72a88728a/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
