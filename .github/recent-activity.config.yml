@@ -1,0 +1,6 @@
+max_lines: 10
+commit_msg: "Updated README with recent activity"
+timezone: Asia/Kolkata
+disabled_events:
+  - ForkEvent
+  - WatchEvent
