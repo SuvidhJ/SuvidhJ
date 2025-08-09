@@ -9,7 +9,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: Readme-Workflows/recent-activity@v2.6.3
+      - uses: Readme-Workflows/recent-activity@v2.4.1
         with:
           GH_TOKEN: ${{ secrets.SNAKE_TOKEN }}
           MAX_LINES: 10
