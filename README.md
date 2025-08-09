@@ -211,16 +211,16 @@ Here are some ideas to get you started:
 - LinkedIn: https://www.linkedin.com/in/suvidh-jain-72a88728a/
 
 <!-- Optional: Snake (enable the workflow below, then uncomment) -->
-<!--
+
 ### Activity (fun)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuvidhJ/SuvidhJ/output/github-contribution-grid-snake-dark.svg" />
   <img alt="Snake" src="https://raw.githubusercontent.com/SuvidhJ/SuvidhJ/output/github-contribution-grid-snake.svg" />
 </picture>
--->
+
 
 <!-- Optional: Lowlighter Metrics (enable the workflow below, then uncomment) -->
-<!--
+
 ### Deep‑dive metrics
 <img src="./metrics.svg" alt="GitHub Metrics (auto‑generated)" />
--->
+
