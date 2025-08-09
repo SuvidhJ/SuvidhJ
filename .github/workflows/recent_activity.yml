@@ -12,4 +12,4 @@ jobs:
       - uses: Readme-Workflows/recent-activity@v2.4.1
         with:
           GH_USERNAME: SuvidhJ
-          CONFIG_FILE: .github/recent-activity.config.yml
+          CONFIG_FILE: ../recent-activity.config.yml
