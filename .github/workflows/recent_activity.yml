@@ -11,5 +11,5 @@ jobs:
     steps:
       - uses: Readme-Workflows/recent-activity@v2.4.1
         with:
-          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
-          MAX_LINES: 10
+          GH_USERNAME: SuvidhJ
+          CONFIG_FILE: .github/recent-activity.config.yml
