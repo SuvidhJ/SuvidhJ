@@ -22,3 +22,6 @@ jobs:
         with:
           GH_USERNAME: SuvidhJ
           CONFIG_FILE: .github/recent-activity.config.yml
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
