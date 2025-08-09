@@ -222,3 +222,7 @@ Here are some ideas to get you started:
 ### Deep‑dive metrics
 <img src="./metrics.svg" alt="GitHub Metrics (auto‑generated)" />
 
+## Recent GitHub Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
