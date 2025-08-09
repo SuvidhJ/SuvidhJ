@@ -50,7 +50,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/github/followers/SuvidhJ?label=Followers&logo=github&style=for-the-badge" alt="GitHub followers" />
     </a>
     <a href="mailto:suvidh.jain3@gmail.com">
-      <img src="https://img.shields.io/badge/Email-%3CEMAIL%3E-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-suvidh.jain3@gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://portfolio-zeta-two-58.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-Visit-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -187,11 +187,9 @@ Here are some ideas to get you started:
 </div>
 
 <!-- Optional: WakaTime (if you use it) -->
-<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=<WAKATIME_USERNAME>&layout=compact&hide_border=true&theme=transparent" alt="WakaTime" />
 </div>
--->
 
 ---
 
