@@ -224,10 +224,10 @@ Here are some ideas to get you started:
 
 ## Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-2. ⬆️ Pushed 13 commit(s) to [SuvidhJ/register](https://github.com/SuvidhJ/register)<br>
-3. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-4. 🔱 Forked [SuvidhJ/thedev.id](https://github.com/SuvidhJ/thedev.id) from [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)<br>
-5. ⭐ Starred [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)<br>
+1. ⭐ Starred [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+2. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+3. ⬆️ Pushed 13 commit(s) to [SuvidhJ/register](https://github.com/SuvidhJ/register)<br>
+4. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+5. 🔱 Forked [SuvidhJ/thedev.id](https://github.com/SuvidhJ/thedev.id) from [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)<br>
 <!--RECENT_ACTIVITY:end-->
 
