@@ -227,7 +227,7 @@ Here are some ideas to get you started:
 1. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 2. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 3. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-4. ⭐ Starred [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-5. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+4. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+5. ⭐ Starred [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
