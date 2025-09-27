@@ -224,8 +224,8 @@ Here are some ideas to get you started:
 
 ## Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [SuvidhJ/SIH-SAI](https://github.com/SuvidhJ/SIH-SAI)<br>
-2. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+1. 🔱 Forked [SuvidhJ/codeXcape_fe](https://github.com/SuvidhJ/codeXcape_fe) from [ABHINAVGARG05/codeXcape_fe](https://github.com/ABHINAVGARG05/codeXcape_fe)<br>
+2. 📔 Created new repository [SuvidhJ/SIH-SAI](https://github.com/SuvidhJ/SIH-SAI)<br>
 3. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 4. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 5. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
