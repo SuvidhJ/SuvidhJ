@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 <div align="center">
 
   <a href="https://github.com/SuvidhJ/awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=awesome-project&show_owner=true&hide_border=true&theme=transparent" alt="awesome-project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=Portfolio&show_owner=true&hide_border=true&theme=transparent" alt="awesome-project" />
   </a>
   <a href="https://github.com/SuvidhJ/cli-toolkit">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=cli-toolkit&show_owner=true&hide_border=true&theme=transparent" alt="cli-toolkit" />
@@ -188,7 +188,7 @@ Here are some ideas to get you started:
 
 <!-- Optional: WakaTime (if you use it) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=<WAKATIME_USERNAME>&layout=compact&hide_border=true&theme=transparent" alt="WakaTime" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SuvidhJ&layout=compact&hide_border=true&theme=transparent" alt="WakaTime" />
 </div>
 
 ---
