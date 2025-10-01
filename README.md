@@ -110,21 +110,21 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=Portfolio&show_owner=true&hide_border=true&theme=transparent" alt="awesome-project" />
   </a>
   <a href="https://github.com/SuvidhJ/cli-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=cli-toolkit&show_owner=true&hide_border=true&theme=transparent" alt="cli-toolkit" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=Recruitment_MFC&show_owner=true&hide_border=true&theme=transparent" alt="cli-toolkit" />
   </a>
   <br/>
   <a href="https://github.com/SuvidhJ/ai-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=ai-engine&show_owner=true&hide_border=true&theme=transparent" alt="ai-engine" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=Mental-Health-WebApp&show_owner=true&hide_border=true&theme=transparent" alt="ai-engine" />
   </a>
   <a href="https://github.com/SuvidhJ/infra-as-code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=infra-as-code&show_owner=true&hide_border=true&theme=transparent" alt="infra-as-code" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=Roommate-Dhoondho&show_owner=true&hide_border=true&theme=transparent" alt="infra-as-code" />
   </a>
   <br/>
   <a href="https://github.com/SuvidhJ/design-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=design-system&show_owner=true&hide_border=true&theme=transparent" alt="design-system" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=Chat_application&show_owner=true&hide_border=true&theme=transparent" alt="design-system" />
   </a>
   <a href="https://github.com/SuvidhJ/data-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=data-pipeline&show_owner=true&hide_border=true&theme=transparent" alt="data-pipeline" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=SIH-SAI&show_owner=true&hide_border=true&theme=transparent" alt="data-pipeline" />
   </a>
 
 </div>
