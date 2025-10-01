@@ -1,32 +1,3 @@
-<!--
-## Hi there 👋
-**SuvidhJ/SuvidhJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-  Replace the placeholders:
-    - Suvidh           e.g., Ada Lovelace
-    - SuvidhJ            e.g., ada
-    - suvidh.jain3@gmail.com               e.g., ada@example.com
-    - <WEBSITE_OR_PORTFOLIO>
-    - <LOCATION>            e.g., Berlin, DE
-    - <TWITTER_HANDLE>      (optional, without @)
-    - <LINKEDIN_SLUG>       (optional, linkedin.com/in/<slug>)
-    - <WAKATIME_USERNAME>   (optional, if you use WakaTime)
-    - Repo names in the "Pinned" section
--->
-
 <div align="center">
 
   <h1>Hi, I'm <strong>Suvidh</strong> 👋</h1>
@@ -43,6 +14,10 @@ Here are some ideas to get you started:
       alt="Intro"
     />
   </a>
+  
+  <div align="center">
+    <img alt="Animated banner" src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="900" height="80" viewBox="0 0 900 80"><defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="%233b82f6"><animate attributeName="stop-color" values="%233b82f6;%2322c55e;%23a78bfa;%233b82f6" dur="6s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="%2322c55e"><animate attributeName="stop-color" values="%2322c55e;%23a78bfa;%233b82f6;%2322c55e" dur="6s" repeatCount="indefinite"/></stop></linearGradient></defs><rect width="900" height="80" rx="12" fill="url(%23g)"/><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" fill="white">Shipping impactful software end to end • Systems design obsessed • DX craftsman</text></svg>' style="max-width:100%;height:auto;border-radius:12px;" />
+  </div>
 
   <!-- Follow + Contact (all live, no hard-coded numbers) -->
   <p>
@@ -211,7 +186,7 @@ Here are some ideas to get you started:
 <!-- Optional: Snake (enable the workflow below, then uncomment) -->
 
 ### Activity (fun)
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuvidhJ/SuvidhJ/output/github-contribution-grid-snake-dark.svg" />
   <img alt="Snake" src="https://raw.githubusercontent.com/SuvidhJ/SuvidhJ/output/github-contribution-grid-snake.svg" />
 </picture>
@@ -220,7 +195,7 @@ Here are some ideas to get you started:
 <!-- Optional: Lowlighter Metrics (enable the workflow below, then uncomment) -->
 
 ### Deep‑dive metrics
-<img src="./metrics.svg" alt="GitHub Metrics (auto‑generated)" />
+<img src="./metrics.svg" alt="GitHub Metrics (auto‑generated)"  align="center"/>
 
 ## Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
