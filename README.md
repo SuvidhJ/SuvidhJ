@@ -199,10 +199,10 @@
 
 ## Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [SuvidhJ/codeXcape_fe](https://github.com/SuvidhJ/codeXcape_fe) from [ABHINAVGARG05/codeXcape_fe](https://github.com/ABHINAVGARG05/codeXcape_fe)<br>
-2. 📔 Created new repository [SuvidhJ/SIH-SAI](https://github.com/SuvidhJ/SIH-SAI)<br>
-3. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-4. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+1. 🔱 Forked [SuvidhJ/quotevote-monorepo](https://github.com/SuvidhJ/quotevote-monorepo) from [QuoteVote/quotevote-monorepo](https://github.com/QuoteVote/quotevote-monorepo)<br>
+2. 💬 Commented on [#106](https://github.com/QuoteVote/quotevote-monorepo/issues/106#issuecomment-3355064191) in [QuoteVote/quotevote-monorepo](https://github.com/QuoteVote/quotevote-monorepo)<br>
+3. 🔱 Forked [SuvidhJ/codeXcape_fe](https://github.com/SuvidhJ/codeXcape_fe) from [ABHINAVGARG05/codeXcape_fe](https://github.com/ABHINAVGARG05/codeXcape_fe)<br>
+4. 📔 Created new repository [SuvidhJ/SIH-SAI](https://github.com/SuvidhJ/SIH-SAI)<br>
 5. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 <!--RECENT_ACTIVITY:end-->
 
