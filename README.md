@@ -199,9 +199,9 @@
 
 ## Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2](https://github.com/HXQLabs/Helixque/issues/2#issuecomment-3355852947) in [HXQLabs/Helixque](https://github.com/HXQLabs/Helixque)<br>
-2. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-3. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+1. 💬 Commented on [#2](https://github.com/HXQLabs/Helixque/issues/2#issuecomment-3357203684) in [HXQLabs/Helixque](https://github.com/HXQLabs/Helixque)<br>
+2. ⭐ Starred [HXQLabs/Helixque](https://github.com/HXQLabs/Helixque)<br>
+3. 💬 Commented on [#2](https://github.com/HXQLabs/Helixque/issues/2#issuecomment-3355852947) in [HXQLabs/Helixque](https://github.com/HXQLabs/Helixque)<br>
 4. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 5. ⬆️ Pushed 1 commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 <!--RECENT_ACTIVITY:end-->
