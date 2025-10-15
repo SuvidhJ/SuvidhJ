@@ -199,10 +199,10 @@
 
 ## Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/elixpo_chapter](https://github.com/SuvidhJ/elixpo_chapter)<br>
-2. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/quotevote-monorepo](https://github.com/SuvidhJ/quotevote-monorepo)<br>
-4. 💪 Opened PR [#204](undefined) in [move-fast-and-break-things/aibyss](https://github.com/move-fast-and-break-things/aibyss)<br>
-5. ⬆️ Pushed undefined commit(s) to [SuvidhJ/aibyss](https://github.com/SuvidhJ/aibyss)<br>
+1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+2. ⬆️ Pushed undefined commit(s) to [SuvidhJ/elixpo_chapter](https://github.com/SuvidhJ/elixpo_chapter)<br>
+3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+4. ⬆️ Pushed undefined commit(s) to [SuvidhJ/quotevote-monorepo](https://github.com/SuvidhJ/quotevote-monorepo)<br>
+5. 💪 Opened PR [#204](undefined) in [move-fast-and-break-things/aibyss](https://github.com/move-fast-and-break-things/aibyss)<br>
 <!--RECENT_ACTIVITY:end-->
 
