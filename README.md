@@ -199,10 +199,10 @@
 
 ## Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#202](undefined) in [QuoteVote/quotevote-monorepo](https://github.com/QuoteVote/quotevote-monorepo)<br>
-2. ⬆️ Pushed undefined commit(s) to [SuvidhJ/quotevote-monorepo](https://github.com/SuvidhJ/quotevote-monorepo)<br>
+1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/quotevote-monorepo](https://github.com/SuvidhJ/quotevote-monorepo)<br>
+2. 💪 Opened PR [#202](undefined) in [QuoteVote/quotevote-monorepo](https://github.com/QuoteVote/quotevote-monorepo)<br>
 3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/quotevote-monorepo](https://github.com/SuvidhJ/quotevote-monorepo)<br>
 4. ⬆️ Pushed undefined commit(s) to [SuvidhJ/quotevote-monorepo](https://github.com/SuvidhJ/quotevote-monorepo)<br>
-5. 💬 Commented on [#106](https://github.com/QuoteVote/quotevote-monorepo/issues/106#issuecomment-3419265586) in [QuoteVote/quotevote-monorepo](https://github.com/QuoteVote/quotevote-monorepo)<br>
+5. ⬆️ Pushed undefined commit(s) to [SuvidhJ/quotevote-monorepo](https://github.com/SuvidhJ/quotevote-monorepo)<br>
 <!--RECENT_ACTIVITY:end-->
 
