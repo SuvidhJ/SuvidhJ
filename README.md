@@ -199,9 +199,9 @@
 
 ## Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-2. ⬆️ Pushed undefined commit(s) to [SuvidhJ/quotevote-monorepo](https://github.com/SuvidhJ/quotevote-monorepo)<br>
-3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+1. 💬 Commented on [#248](https://github.com/QuoteVote/quotevote-monorepo/issues/248#issuecomment-3570354749) in [QuoteVote/quotevote-monorepo](https://github.com/QuoteVote/quotevote-monorepo)<br>
+2. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/quotevote-monorepo](https://github.com/SuvidhJ/quotevote-monorepo)<br>
 4. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 5. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 <!--RECENT_ACTIVITY:end-->
