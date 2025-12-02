@@ -202,7 +202,7 @@
 1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 2. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-4. 🤝 Became collaborator on [QuoteVote/quotevote-next](https://github.com/QuoteVote/quotevote-next)<br>
-5. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+4. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+5. 🤝 Became collaborator on [QuoteVote/quotevote-next](https://github.com/QuoteVote/quotevote-next)<br>
 <!--RECENT_ACTIVITY:end-->
 
