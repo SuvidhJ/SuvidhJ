@@ -199,8 +199,8 @@
 
 ## Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/Advent-of-Code-Kotlin](https://github.com/SuvidhJ/Advent-of-Code-Kotlin)<br>
-2. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+2. ⬆️ Pushed undefined commit(s) to [SuvidhJ/Advent-of-Code-Kotlin](https://github.com/SuvidhJ/Advent-of-Code-Kotlin)<br>
 3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 4. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 5. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
