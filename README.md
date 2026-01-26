@@ -15,9 +15,9 @@
     />
   </a>
   
-  <div align="center">
+  <!--<div align="center">
     <img alt="Animated banner" src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="900" height="80" viewBox="0 0 900 80"><defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="%233b82f6"><animate attributeName="stop-color" values="%233b82f6;%2322c55e;%23a78bfa;%233b82f6" dur="6s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="%2322c55e"><animate attributeName="stop-color" values="%2322c55e;%23a78bfa;%233b82f6;%2322c55e" dur="6s" repeatCount="indefinite"/></stop></linearGradient></defs><rect width="900" height="80" rx="12" fill="url(%23g)"/><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" fill="white">Shipping impactful software end to end • Systems design obsessed • DX craftsman</text></svg>' style="max-width:100%;height:auto;border-radius:12px;" />
-  </div>
+  </div>-->
 
   <!-- Follow + Contact (all live, no hard-coded numbers) -->
   <p>
