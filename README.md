@@ -201,8 +201,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 2. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/Brandmitra-AI-for-Bharat-hackathon](https://github.com/SuvidhJ/Brandmitra-AI-for-Bharat-hackathon)<br>
+3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 4. ⬆️ Pushed undefined commit(s) to [SuvidhJ/Brandmitra-AI-for-Bharat-hackathon](https://github.com/SuvidhJ/Brandmitra-AI-for-Bharat-hackathon)<br>
-5. 🔱 Forked [SuvidhJ/Enrollments](https://github.com/SuvidhJ/Enrollments) from [codewithyuvi/Enrollments](https://github.com/codewithyuvi/Enrollments)<br>
+5. ⬆️ Pushed undefined commit(s) to [SuvidhJ/Brandmitra-AI-for-Bharat-hackathon](https://github.com/SuvidhJ/Brandmitra-AI-for-Bharat-hackathon)<br>
 <!--RECENT_ACTIVITY:end-->
 
