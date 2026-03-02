@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi, I'm <strong>Suvidh</strong> 👋</h1>
+  <h1>Hi, I'm <strong>[placeholder]</strong> 👋</h1>
 
   <p>
     I architect, code, and ship across the stack — from low‑level systems to delightful DX.
@@ -8,7 +8,7 @@
   </p>
 
   <!-- Typing intro (subtle, centered, dark‑mode friendly) -->
-  <a href="https://github.com/SuvidhJ">
+  <a href="https://github.com/[placeholder]">
     <img
       src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&duration=2500&pause=600&center=true&vCenter=true&width=950&height=40&lines=Shipping%20impactful%20software%20end%20to%20end;%F0%9F%9A%80%20Developer%20who%20does%20%E2%80%9Cmost%20things%E2%80%9D%20%E2%80%94%20and%20does%20them%20well;Open%E2%80%91source%20driven%20%E2%80%A2%20System%20design%20obsessed%20%E2%80%A2%20DX%20craftsman"
       alt="Intro"
@@ -21,20 +21,20 @@
 
   <!-- Follow + Contact (all live, no hard-coded numbers) -->
   <p>
-    <a href="https://github.com/SuvidhJ">
-      <img src="https://img.shields.io/github/followers/SuvidhJ?label=Followers&logo=github&style=for-the-badge" alt="GitHub followers" />
+    <a href="https://github.com/[placeholder]">
+      <img src="https://img.shields.io/github/followers/[placeholder]?label=Followers&logo=github&style=for-the-badge" alt="GitHub followers" />
     </a>
-    <a href="mailto:suvidh.jain3@gmail.com">
-      <img src="https://img.shields.io/badge/Email-suvidh.jain3@gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:[placeholder]">
+      <img src="https://img.shields.io/badge/Email-[placeholder]-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://portfolio-zeta-two-58.vercel.app/">
+    <a href="https://[placeholder]">
       <img src="https://img.shields.io/badge/Portfolio-Visit-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <!-- Optional socials -->
-<!--     <a href="https://twitter.com/<TWITTER_HANDLE>">
+   <a href="https://twitter.com/[placeholder]">
       <img src="https://img.shields.io/badge/Twitter-@<TWITTER_HANDLE>-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
-    </a> -->
-    <a href="https://www.linkedin.com/in/suvidh-jain-72a88728a/">
+    </a> 
+    <a href=[placeholder]">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
@@ -81,25 +81,25 @@
 
 <div align="center">
 
-  <a href="https://github.com/SuvidhJ/awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=Portfolio&show_owner=true&hide_border=true&theme=transparent" alt="awesome-project" />
+  <a href="https://github.com/[placeholder]/awesome-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[placeholder]&repo=Portfolio&show_owner=true&hide_border=true&theme=transparent" alt="awesome-project" />
   </a>
-  <a href="https://github.com/SuvidhJ/cli-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=Recruitment_MFC&show_owner=true&hide_border=true&theme=transparent" alt="cli-toolkit" />
-  </a>
-  <br/>
-  <a href="https://github.com/SuvidhJ/ai-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=Mental-Health-WebApp&show_owner=true&hide_border=true&theme=transparent" alt="ai-engine" />
-  </a>
-  <a href="https://github.com/SuvidhJ/infra-as-code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=Roommate-Dhoondho&show_owner=true&hide_border=true&theme=transparent" alt="infra-as-code" />
+  <a href="https://github.com/[placeholder]/cli-toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[placeholder]&repo=Recruitment_MFC&show_owner=true&hide_border=true&theme=transparent" alt="cli-toolkit" />
   </a>
   <br/>
-  <a href="https://github.com/SuvidhJ/design-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=Chat_application&show_owner=true&hide_border=true&theme=transparent" alt="design-system" />
+  <a href="https://github.com/[placeholder]/ai-engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[placeholder]&repo=Mental-Health-WebApp&show_owner=true&hide_border=true&theme=transparent" alt="ai-engine" />
   </a>
-  <a href="https://github.com/SuvidhJ/data-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=SIH-SAI&show_owner=true&hide_border=true&theme=transparent" alt="data-pipeline" />
+  <a href="https://github.com/[placeholder]/infra-as-code">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[placeholder]&repo=Roommate-Dhoondho&show_owner=true&hide_border=true&theme=transparent" alt="infra-as-code" />
+  </a>
+  <br/>
+  <a href="https://github.com/[placeholder]/design-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[placeholder]&repo=Chat_application&show_owner=true&hide_border=true&theme=transparent" alt="design-system" />
+  </a>
+  <a href="https://github.com/[placeholder]/data-pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[placeholder]&repo=SIH-SAI&show_owner=true&hide_border=true&theme=transparent" alt="data-pipeline" />
   </a>
 
 </div>
@@ -113,57 +113,57 @@
   <!-- GitHub Stats (dark/light aware) -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=SuvidhJ&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=[placeholder]&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=SuvidhJ&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=[placeholder]&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=SuvidhJ&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=[placeholder]&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" alt="GitHub stats" />
   </picture>
 
   <!-- Streak -->
   <picture>
     <source
-      srcset="https://streak-stats.demolab.com?user=SuvidhJ&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=467&theme=github-dark-blue"
+      srcset="https://streak-stats.demolab.com?user=[placeholder]&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=467&theme=github-dark-blue"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://streak-stats.demolab.com?user=SuvidhJ&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=467"
+      srcset="https://streak-stats.demolab.com?user=[placeholder]&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=467"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://streak-stats.demolab.com?user=SuvidhJ&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=467" alt="GitHub streak" />
+    <img src="https://streak-stats.demolab.com?user=[placeholder]&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=467" alt="GitHub streak" />
   </picture>
 
   <!-- Top Languages -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvidhJ&layout=compact&langs_count=10&hide_border=true&theme=github_dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=[placeholder]&layout=compact&langs_count=10&hide_border=true&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvidhJ&layout=compact&langs_count=10&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=[placeholder]&layout=compact&langs_count=10&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvidhJ&layout=compact&langs_count=10&hide_border=true" alt="Top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[placeholder]&layout=compact&langs_count=10&hide_border=true" alt="Top languages" />
   </picture>
 
 </div>
 
 <!-- Trophies (tasteful row, no frames) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SuvidhJ&theme=onedark&no-bg=true&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=[placeholder]&theme=onedark&no-bg=true&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 </div>
 
 <!-- Activity Graph (live) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuvidhJ&radius=8&area=true&bg_color=transparent&hide_border=true&color=3b82f6&line=22c55e&point=3b82f6&area_color=22c55e&custom_title=Contribution%20Graph" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[placeholder]&radius=8&area=true&bg_color=transparent&hide_border=true&color=3b82f6&line=22c55e&point=3b82f6&area_color=22c55e&custom_title=Contribution%20Graph" alt="Activity Graph" />
 </div>
 
 <!-- Optional: WakaTime (if you use it) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SuvidhJ&layout=compact&hide_border=true&theme=transparent" alt="WakaTime" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=[placeholder]&layout=compact&hide_border=true&theme=transparent" alt="WakaTime" />
 </div>
 
 ---
@@ -177,18 +177,18 @@
 ---
 
 ### Get in touch
-- Email: suvidh.jain3@gmail.com
-- Site: https://portfolio-zeta-two-58.vercel.app/
-- Location: Surat
+- Email: [placeholder]
+- Site: [placeholder]
+- Location: [placeholder]
 <!-- - Twitter: https://twitter.com/<TWITTER_HANDLE> -->
-- LinkedIn: https://www.linkedin.com/in/suvidh-jain-72a88728a/
+- LinkedIn: https://www.linkedin.com/in/[placeholder]/
 
 <!-- Optional: Snake (enable the workflow below, then uncomment) -->
 
 ### Activity (fun)
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuvidhJ/SuvidhJ/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Snake" src="https://raw.githubusercontent.com/SuvidhJ/SuvidhJ/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[placeholder]/[placeholder]/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/[placeholder]/[placeholder]/output/github-contribution-grid-snake.svg" />
 </picture>
 
 
@@ -199,10 +199,5 @@
 
 ## Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/ccextractor](https://github.com/SuvidhJ/ccextractor)<br>
-2. ⬆️ Pushed undefined commit(s) to [SuvidhJ/ccextractor](https://github.com/SuvidhJ/ccextractor)<br>
-3. ❗️ Opened issue [#2161](https://github.com/CCExtractor/ccextractor/issues/2161) in [CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor)<br>
-4. ❗️ Opened issue [#2160](https://github.com/CCExtractor/ccextractor/issues/2160) in [CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor)<br>
-5. 🔱 Forked [SuvidhJ/ccextractor](https://github.com/SuvidhJ/ccextractor) from [CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor)<br>
 <!--RECENT_ACTIVITY:end-->
 
