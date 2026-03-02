@@ -199,10 +199,10 @@
 
 ## Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/SuvidhJ/Web-Task/issues/1) in [SuvidhJ/Web-Task](https://github.com/SuvidhJ/Web-Task)<br>
-2. ❗️ Opened issue [#1](https://github.com/SuvidhJ/Web-Task/issues/1) in [SuvidhJ/Web-Task](https://github.com/SuvidhJ/Web-Task)<br>
-3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-4. 💪 Opened PR [#2163](undefined) in [CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor)<br>
-5. ⬆️ Pushed undefined commit(s) to [SuvidhJ/ccextractor](https://github.com/SuvidhJ/ccextractor)<br>
+1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+2. ✔️ Closed issue [#1](https://github.com/SuvidhJ/Web-Task/issues/1) in [SuvidhJ/Web-Task](https://github.com/SuvidhJ/Web-Task)<br>
+3. ❗️ Opened issue [#1](https://github.com/SuvidhJ/Web-Task/issues/1) in [SuvidhJ/Web-Task](https://github.com/SuvidhJ/Web-Task)<br>
+4. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+5. 💪 Opened PR [#2163](undefined) in [CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor)<br>
 <!--RECENT_ACTIVITY:end-->
 
