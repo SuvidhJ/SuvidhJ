@@ -199,10 +199,10 @@
 
 ## Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2105](https://github.com/CCExtractor/ccextractor/pull/2105#issuecomment-3986203265) in [CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor)<br>
-2. ⬆️ Pushed undefined commit(s) to [SuvidhJ/ccextractor](https://github.com/SuvidhJ/ccextractor)<br>
+1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/ccextractor](https://github.com/SuvidhJ/ccextractor)<br>
+2. 💬 Commented on [#2105](https://github.com/CCExtractor/ccextractor/pull/2105#issuecomment-3986203265) in [CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor)<br>
 3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/ccextractor](https://github.com/SuvidhJ/ccextractor)<br>
-4. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-5. ✔️ Closed issue [#1](https://github.com/SuvidhJ/Web-Task/issues/1) in [SuvidhJ/Web-Task](https://github.com/SuvidhJ/Web-Task)<br>
+4. ⬆️ Pushed undefined commit(s) to [SuvidhJ/ccextractor](https://github.com/SuvidhJ/ccextractor)<br>
+5. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 <!--RECENT_ACTIVITY:end-->
 
