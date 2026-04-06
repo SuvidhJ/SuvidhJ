@@ -199,9 +199,9 @@
 
 ## Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [AaryanCode69/Cloud-Project](https://github.com/AaryanCode69/Cloud-Project)<br>
-2. 🤝 Became collaborator on [AaryanCode69/Cognitive-Twin](https://github.com/AaryanCode69/Cognitive-Twin)<br>
-3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+2. 🤝 Became collaborator on [AaryanCode69/Cloud-Project](https://github.com/AaryanCode69/Cloud-Project)<br>
+3. 🤝 Became collaborator on [AaryanCode69/Cognitive-Twin](https://github.com/AaryanCode69/Cognitive-Twin)<br>
 4. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 5. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 <!--RECENT_ACTIVITY:end-->
