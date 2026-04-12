@@ -202,7 +202,7 @@
 1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 2. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-4. ⬆️ Pushed undefined commit(s) to [SuvidhJ/Incident-triage](https://github.com/SuvidhJ/Incident-triage)<br>
+4. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 5. ⬆️ Pushed undefined commit(s) to [SuvidhJ/Incident-triage](https://github.com/SuvidhJ/Incident-triage)<br>
 <!--RECENT_ACTIVITY:end-->
 
