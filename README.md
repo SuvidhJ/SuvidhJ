@@ -199,10 +199,10 @@
 
 ## Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-2. 🔱 Forked [SuvidhJ/kartograf](https://github.com/SuvidhJ/kartograf) from [asmap/kartograf](https://github.com/asmap/kartograf)<br>
-3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-4. 💬 Commented on [#260](https://github.com/cameri/nostream/issues/260#issuecomment-4261623165) in [cameri/nostream](https://github.com/cameri/nostream)<br>
-5. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/kartograf](https://github.com/SuvidhJ/kartograf)<br>
+2. ⬆️ Pushed undefined commit(s) to [SuvidhJ/kartograf](https://github.com/SuvidhJ/kartograf)<br>
+3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/kartograf](https://github.com/SuvidhJ/kartograf)<br>
+4. 💬 Commented on [#135](https://github.com/asmap/kartograf/pull/135#discussion_r3105630375) in [asmap/kartograf](https://github.com/asmap/kartograf)<br>
+5. 💬 Commented on [#135](https://github.com/asmap/kartograf/pull/135#discussion_r3105629313) in [asmap/kartograf](https://github.com/asmap/kartograf)<br>
 <!--RECENT_ACTIVITY:end-->
 
