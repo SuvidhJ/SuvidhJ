@@ -199,10 +199,10 @@
 
 ## Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#93](https://github.com/asmap/kartograf/issues/93#issuecomment-4276860685) in [asmap/kartograf](https://github.com/asmap/kartograf)<br>
-2. 💬 Commented on [#93](https://github.com/asmap/kartograf/issues/93#issuecomment-4276781548) in [asmap/kartograf](https://github.com/asmap/kartograf)<br>
-3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-4. ❌ Closed PR [#543](undefined) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)<br>
-5. 💪 Opened PR [#543](undefined) in [bitcoinfuzz/bitcoinfuzz](https://github.com/bitcoinfuzz/bitcoinfuzz)<br>
+1. 💬 Commented on [#136](https://github.com/asmap/kartograf/pull/136#issuecomment-4278175174) in [asmap/kartograf](https://github.com/asmap/kartograf)<br>
+2. ❌ Closed PR [#136](undefined) in [asmap/kartograf](https://github.com/asmap/kartograf)<br>
+3. ❌ Closed PR [#135](undefined) in [asmap/kartograf](https://github.com/asmap/kartograf)<br>
+4. 💬 Commented on [#135](https://github.com/asmap/kartograf/pull/135#issuecomment-4278172165) in [asmap/kartograf](https://github.com/asmap/kartograf)<br>
+5. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 <!--RECENT_ACTIVITY:end-->
 
