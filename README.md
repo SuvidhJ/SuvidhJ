@@ -199,10 +199,10 @@
 
 ## Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#136](https://github.com/asmap/kartograf/pull/136#issuecomment-4278175174) in [asmap/kartograf](https://github.com/asmap/kartograf)<br>
-2. ❌ Closed PR [#136](undefined) in [asmap/kartograf](https://github.com/asmap/kartograf)<br>
-3. ❌ Closed PR [#135](undefined) in [asmap/kartograf](https://github.com/asmap/kartograf)<br>
-4. 💬 Commented on [#135](https://github.com/asmap/kartograf/pull/135#issuecomment-4278172165) in [asmap/kartograf](https://github.com/asmap/kartograf)<br>
-5. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+2. 💬 Commented on [#136](https://github.com/asmap/kartograf/pull/136#issuecomment-4278175174) in [asmap/kartograf](https://github.com/asmap/kartograf)<br>
+3. ❌ Closed PR [#136](undefined) in [asmap/kartograf](https://github.com/asmap/kartograf)<br>
+4. ❌ Closed PR [#135](undefined) in [asmap/kartograf](https://github.com/asmap/kartograf)<br>
+5. 💬 Commented on [#135](https://github.com/asmap/kartograf/pull/135#issuecomment-4278172165) in [asmap/kartograf](https://github.com/asmap/kartograf)<br>
 <!--RECENT_ACTIVITY:end-->
 
