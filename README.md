@@ -201,8 +201,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 2. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-3. ❌ Closed PR [#1](undefined) in [SuvidhJ/Raft_Consensus_Algorithm](https://github.com/SuvidhJ/Raft_Consensus_Algorithm)<br>
-4. ⬆️ Pushed undefined commit(s) to [SuvidhJ/Raft_Consensus_Algorithm](https://github.com/SuvidhJ/Raft_Consensus_Algorithm)<br>
-5. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+4. ❌ Closed PR [#1](undefined) in [SuvidhJ/Raft_Consensus_Algorithm](https://github.com/SuvidhJ/Raft_Consensus_Algorithm)<br>
+5. ⬆️ Pushed undefined commit(s) to [SuvidhJ/Raft_Consensus_Algorithm](https://github.com/SuvidhJ/Raft_Consensus_Algorithm)<br>
 <!--RECENT_ACTIVITY:end-->
 
