@@ -200,8 +200,8 @@
 ## Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-2. ⬆️ Pushed undefined commit(s) to [SuvidhJ/Intain-Campus-FinTech-Challenge-2026-AI-Track-Submission](https://github.com/SuvidhJ/Intain-Campus-FinTech-Challenge-2026-AI-Track-Submission)<br>
-3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+2. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/Intain-Campus-FinTech-Challenge-2026-AI-Track-Submission](https://github.com/SuvidhJ/Intain-Campus-FinTech-Challenge-2026-AI-Track-Submission)<br>
 4. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 5. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 <!--RECENT_ACTIVITY:end-->
