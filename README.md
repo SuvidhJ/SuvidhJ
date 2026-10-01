@@ -199,9 +199,9 @@
 
 ## Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0 — first public release](https://github.com/SuvidhJ/how-far-to-trust-it/releases/tag/v0.1.0) in [SuvidhJ/how-far-to-trust-it](https://github.com/SuvidhJ/how-far-to-trust-it)<br>
+1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/how-far-to-trust-it](https://github.com/SuvidhJ/how-far-to-trust-it)<br>
 2. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
+3. ✌️ Released [v0.1.0 — first public release](https://github.com/SuvidhJ/how-far-to-trust-it/releases/tag/v0.1.0) in [SuvidhJ/how-far-to-trust-it](https://github.com/SuvidhJ/how-far-to-trust-it)<br>
 4. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 5. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
 <!--RECENT_ACTIVITY:end-->
