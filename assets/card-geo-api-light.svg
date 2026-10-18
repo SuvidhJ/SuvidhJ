@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 268" width="480" height="268" role="img" aria-label="Geospatial Measurement API: Measures Shapefile, KML and KMZ features in a per-feature projected CRS, cross-checked against the WGS84 ellipsoid. &lt; 0.25%: area error vs geodesic truth from 89°S to 89°N; Web Mercator is off by 297% at Oslo">
+<title>Geospatial Measurement API: Measures Shapefile, KML and KMZ features in a per-feature projected CRS, cross-checked against the WGS84 ellipsoid. &lt; 0.25%: area error vs geodesic truth from 89°S to 89°N; Web Mercator is off by 297% at Oslo</title>
+<style>.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}</style>
+<defs>
+<linearGradient id="geobg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6f8fa"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<radialGradient id="geog1" cx="0.92" cy="0.0" r="0.65"><stop offset="0" stop-color="#1b7c83" stop-opacity="0.12"/><stop offset="1" stop-color="#1b7c83" stop-opacity="0"/></radialGradient>
+<radialGradient id="geog2" cx="0.0" cy="1.0" r="0.6"><stop offset="0" stop-color="#0969da" stop-opacity="0.08"/><stop offset="1" stop-color="#0969da" stop-opacity="0"/></radialGradient>
+<pattern id="geodots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#e1e6eb"/></pattern>
+<clipPath id="geoclip"><rect x="1" y="1" width="478" height="266" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#geoclip)">
+<rect width="480" height="268" fill="url(#geobg)"/>
+<rect width="480" height="268" fill="url(#geodots)"/>
+<rect width="480" height="268" fill="url(#geog1)"/>
+<rect width="480" height="268" fill="url(#geog2)"/>
+</g>
+<rect x="0.5" y="0.5" width="479" height="267" rx="14" fill="none" stroke="#d1d9e0"/>
+<rect x="24" y="0" width="64" height="3" rx="1.5" fill="#1b7c83"/>
+<text class="s" x="24" y="46" font-size="21" font-weight="700" fill="#1f2328">Geospatial Measurement API</text>
+<circle cx="400.2" cy="41" r="5" fill="#1b7c83"/>
+<text class="m" x="456" y="45" font-size="12" text-anchor="end" fill="#59636e">Python</text>
+<text class="s" x="24" y="76" font-size="13.5" fill="#25292e">Measures Shapefile, KML and KMZ features in a per-feature</text>
+<text class="s" x="24" y="96" font-size="13.5" fill="#25292e">projected CRS, cross-checked against the WGS84 ellipsoid.</text>
+<text class="s" x="23" y="158" font-size="34" font-weight="700" fill="#1b7c83" letter-spacing="-0.5">&lt; 0.25%</text>
+<text class="s" x="24" y="184" font-size="13" fill="#59636e">area error vs geodesic truth from 89°S to 89°N;</text>
+<text class="s" x="24" y="202" font-size="13" fill="#59636e">Web Mercator is off by 297% at Oslo</text>
+<rect x="24.0" y="222" width="70.5" height="24" rx="12.0" fill="#eef1f4" stroke="#d1d9e0"/><text class="m" x="35.0" y="238.1" font-size="11.5" fill="#59636e">FastAPI</text>
+<rect x="102.5" y="222" width="91.2" height="24" rx="12.0" fill="#eef1f4" stroke="#d1d9e0"/><text class="m" x="113.5" y="238.1" font-size="11.5" fill="#59636e">Redis + RQ</text>
+<rect x="201.7" y="222" width="105.1" height="24" rx="12.0" fill="#eef1f4" stroke="#d1d9e0"/><text class="m" x="212.7" y="238.1" font-size="11.5" fill="#59636e">98% coverage</text>
+<text class="m" x="456" y="238" font-size="12" text-anchor="end" fill="#1b7c83">view repo ↗</text>
+</svg>

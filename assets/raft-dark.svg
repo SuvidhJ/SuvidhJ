@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 392" width="1000" height="392" role="img" aria-label="raft-kv: Raft written from scratch in Go and chaos-tested. 0 of 177,568 acknowledged writes lost across 200 leader crashes; 500 of 500 chaos runs linearizable; 8 consensus bugs found; p99 write recovery 514 ms.">
+<title>raft-kv: Raft written from scratch in Go and chaos-tested. 0 of 177,568 acknowledged writes lost across 200 leader crashes; 500 of 500 chaos runs linearizable; 8 consensus bugs found; p99 write recovery 514 ms.</title>
+<style>.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}</style>
+<defs>
+<linearGradient id="rbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121a26"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<radialGradient id="rg1" cx="0.92" cy="0.0" r="0.65"><stop offset="0" stop-color="#3fb950" stop-opacity="0.22"/><stop offset="1" stop-color="#3fb950" stop-opacity="0"/></radialGradient>
+<radialGradient id="rg2" cx="0.0" cy="1.0" r="0.6"><stop offset="0" stop-color="#4493f8" stop-opacity="0.14"/><stop offset="1" stop-color="#4493f8" stop-opacity="0"/></radialGradient>
+<pattern id="rdots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#262c36"/></pattern>
+<clipPath id="rclip"><rect x="1" y="1" width="998" height="390" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#rclip)">
+<rect width="1000" height="392" fill="url(#rbg)"/>
+<rect width="1000" height="392" fill="url(#rdots)"/>
+<rect width="1000" height="392" fill="url(#rg1)"/>
+<rect width="1000" height="392" fill="url(#rg2)"/>
+</g>
+<rect x="0.5" y="0.5" width="999" height="391" rx="16" fill="none" stroke="#3d444d"/>
+<text class="m" x="36" y="50" font-size="12" fill="#3fb950" letter-spacing="1.5">FLAGSHIP · GO · NO RAFT LIBRARY</text>
+<text class="s" x="34" y="98" font-size="40" font-weight="700" fill="#f0f6fc" letter-spacing="-0.5">raft-kv</text>
+<text class="s" x="36" y="130" font-size="16" fill="#d1d7e0">Raft consensus and a replicated KV store, written from scratch,</text>
+<text class="s" x="36" y="152" font-size="16" fill="#d1d7e0">then attacked by a chaos harness until it stopped breaking.</text>
+<rect x="36.0" y="174" width="79.8" height="24" rx="12.0" fill="#1c2330" stroke="#3d444d"/><text class="m" x="47.0" y="190.3" font-size="12" fill="#9198a1">pre-vote</text>
+<rect x="123.8" y="174" width="108.7" height="24" rx="12.0" fill="#1c2330" stroke="#3d444d"/><text class="m" x="134.8" y="190.3" font-size="12" fill="#9198a1">check-quorum</text>
+<rect x="240.5" y="174" width="159.3" height="24" rx="12.0" fill="#1c2330" stroke="#3d444d"/><text class="m" x="251.5" y="190.3" font-size="12" fill="#9198a1">leadership transfer</text>
+<rect x="407.7" y="174" width="130.4" height="24" rx="12.0" fill="#1c2330" stroke="#3d444d"/><text class="m" x="418.7" y="190.3" font-size="12" fill="#9198a1">ReadIndex reads</text>
+<rect x="36.0" y="206" width="152.0" height="24" rx="12.0" fill="#1c2330" stroke="#3d444d"/><text class="m" x="47.0" y="222.3" font-size="12" fill="#9198a1">membership changes</text>
+<rect x="196.0" y="206" width="173.7" height="24" rx="12.0" fill="#1c2330" stroke="#3d444d"/><text class="m" x="207.0" y="222.3" font-size="12" fill="#9198a1">exactly-once sessions</text>
+<rect x="377.7" y="206" width="101.5" height="24" rx="12.0" fill="#1c2330" stroke="#3d444d"/><text class="m" x="388.7" y="222.3" font-size="12" fill="#9198a1">CRC32-C WAL</text>
+<rect x="487.2" y="206" width="101.5" height="24" rx="12.0" fill="#1c2330" stroke="#3d444d"/><text class="m" x="498.2" y="222.3" font-size="12" fill="#9198a1">torn writes</text>
+<rect x="36" y="250" width="222" height="112" rx="10" fill="#0f141b" fill-opacity="0.8" stroke="#3d444d"/>
+<rect x="36" y="264" width="3" height="84" rx="1.5" fill="#3fb950"/>
+<text class="s" x="56" y="296" font-size="32" font-weight="700" fill="#3fb950">0</text>
+<text class="s" x="56" y="324" font-size="13" fill="#9198a1">acked writes lost of 177,568,</text>
+<text class="s" x="56" y="342" font-size="13" fill="#9198a1">across 200 forced leader crashes</text>
+<rect x="270" y="250" width="222" height="112" rx="10" fill="#0f141b" fill-opacity="0.8" stroke="#3d444d"/>
+<rect x="270" y="264" width="3" height="84" rx="1.5" fill="#3fb950"/>
+<text class="s" x="290" y="296" font-size="32" font-weight="700" fill="#3fb950">500/500</text>
+<text class="s" x="290" y="324" font-size="13" fill="#9198a1">chaos runs linearizable: 1,426</text>
+<text class="s" x="290" y="342" font-size="13" fill="#9198a1">crashes, 2,830 partitions</text>
+<rect x="504" y="250" width="222" height="112" rx="10" fill="#0f141b" fill-opacity="0.8" stroke="#3d444d"/>
+<rect x="504" y="264" width="3" height="84" rx="1.5" fill="#d29922"/>
+<text class="s" x="524" y="296" font-size="32" font-weight="700" fill="#d29922">8</text>
+<text class="s" x="524" y="324" font-size="13" fill="#9198a1">consensus bugs caught by my</text>
+<text class="s" x="524" y="342" font-size="13" fill="#9198a1">harnesses · incl. a safety bug</text>
+<rect x="738" y="250" width="222" height="112" rx="10" fill="#0f141b" fill-opacity="0.8" stroke="#3d444d"/>
+<rect x="738" y="264" width="3" height="84" rx="1.5" fill="#4493f8"/>
+<text class="s" x="758" y="296" font-size="32" font-weight="700" fill="#4493f8">514 ms</text>
+<text class="s" x="758" y="324" font-size="13" fill="#9198a1">p99 to resume writes after a</text>
+<text class="s" x="758" y="342" font-size="13" fill="#9198a1">leader crash · was 1,140 ms</text>
+<line x1="820.0" y1="58.0" x2="886.6" y2="106.4" stroke="#3d444d" stroke-width="1" stroke-dasharray="2 4"/>
+<line x1="820.0" y1="58.0" x2="861.1" y2="184.6" stroke="#3d444d" stroke-width="1" stroke-dasharray="2 4"/>
+<line x1="820.0" y1="58.0" x2="778.9" y2="184.6" stroke="#3d444d" stroke-width="1" stroke-dasharray="2 4"/>
+<line x1="820.0" y1="58.0" x2="753.4" y2="106.4" stroke="#3d444d" stroke-width="1" stroke-dasharray="2 4"/>
+<line x1="886.6" y1="106.4" x2="861.1" y2="184.6" stroke="#3d444d" stroke-width="1" stroke-dasharray="2 4"/>
+<line x1="886.6" y1="106.4" x2="778.9" y2="184.6" stroke="#3d444d" stroke-width="1" stroke-dasharray="2 4"/>
+<line x1="886.6" y1="106.4" x2="753.4" y2="106.4" stroke="#3d444d" stroke-width="1" stroke-dasharray="2 4"/>
+<line x1="861.1" y1="184.6" x2="778.9" y2="184.6" stroke="#3d444d" stroke-width="1" stroke-dasharray="2 4"/>
+<line x1="861.1" y1="184.6" x2="753.4" y2="106.4" stroke="#3d444d" stroke-width="1" stroke-dasharray="2 4"/>
+<line x1="778.9" y1="184.6" x2="753.4" y2="106.4" stroke="#3d444d" stroke-width="1" stroke-dasharray="2 4"/>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.000;0.000;0.001;0.420;0.421;1.000" dur="10.0s" repeatCount="indefinite"/><circle r="3" fill="#3fb950"><animateMotion dur="0.8s" repeatCount="indefinite" path="M820.0,58.0 L886.6,106.4"/></circle><circle r="3" fill="#3fb950"><animateMotion dur="0.8s" repeatCount="indefinite" path="M820.0,58.0 L861.1,184.6"/></circle><circle r="3" fill="#3fb950"><animateMotion dur="0.8s" repeatCount="indefinite" path="M820.0,58.0 L778.9,184.6"/></circle><circle r="3" fill="#3fb950"><animateMotion dur="0.8s" repeatCount="indefinite" path="M820.0,58.0 L753.4,106.4"/></circle></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.000;0.540;0.541;1.000;1.001;1.000" dur="10.0s" repeatCount="indefinite"/><circle r="3" fill="#3fb950"><animateMotion dur="0.8s" repeatCount="indefinite" path="M778.9,184.6 L820.0,58.0"/></circle><circle r="3" fill="#3fb950"><animateMotion dur="0.8s" repeatCount="indefinite" path="M778.9,184.6 L886.6,106.4"/></circle><circle r="3" fill="#3fb950"><animateMotion dur="0.8s" repeatCount="indefinite" path="M778.9,184.6 L861.1,184.6"/></circle><circle r="3" fill="#3fb950"><animateMotion dur="0.8s" repeatCount="indefinite" path="M778.9,184.6 L753.4,106.4"/></circle></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.000;0.440;0.441;0.540;0.541;1.000" dur="10.0s" repeatCount="indefinite"/><circle r="3" fill="#d29922"><animateMotion dur="0.5s" repeatCount="indefinite" path="M778.9,184.6 L886.6,106.4"/></circle><circle r="3" fill="#d29922"><animateMotion dur="0.5s" repeatCount="indefinite" path="M778.9,184.6 L861.1,184.6"/></circle><circle r="3" fill="#d29922"><animateMotion dur="0.5s" repeatCount="indefinite" path="M778.9,184.6 L753.4,106.4"/></circle></g>
+<circle cx="820.0" cy="58.0" r="15" fill="#3fb950" stroke="#9198a1" stroke-width="1.5"><animate attributeName="fill" values="#3fb950;#3fb950;#f85149;#f85149;#151b23;#151b23" keyTimes="0.000;0.420;0.421;0.860;0.861;1.000" dur="10.0s" repeatCount="indefinite"/></circle>
+<text class="m" x="820.0" y="62.0" font-size="11" text-anchor="middle" fill="#f0f6fc">n1</text>
+<circle cx="886.6" cy="106.4" r="15" fill="#151b23" stroke="#9198a1" stroke-width="1.5"></circle>
+<text class="m" x="886.6" y="110.4" font-size="11" text-anchor="middle" fill="#f0f6fc">n2</text>
+<circle cx="861.1" cy="184.6" r="15" fill="#151b23" stroke="#9198a1" stroke-width="1.5"></circle>
+<text class="m" x="861.1" y="188.6" font-size="11" text-anchor="middle" fill="#f0f6fc">n3</text>
+<circle cx="778.9" cy="184.6" r="15" fill="#151b23" stroke="#9198a1" stroke-width="1.5"><animate attributeName="fill" values="#151b23;#151b23;#d29922;#d29922;#3fb950;#3fb950" keyTimes="0.000;0.440;0.441;0.540;0.541;1.000" dur="10.0s" repeatCount="indefinite"/></circle>
+<text class="m" x="778.9" y="188.6" font-size="11" text-anchor="middle" fill="#f0f6fc">n4</text>
+<circle cx="753.4" cy="106.4" r="15" fill="#151b23" stroke="#9198a1" stroke-width="1.5"></circle>
+<text class="m" x="753.4" y="110.4" font-size="11" text-anchor="middle" fill="#f0f6fc">n5</text>
+<text class="m" x="820" y="242" font-size="12" text-anchor="middle" fill="#9198a1" opacity="1">term 7 · leader n1 · heartbeats<animate attributeName="opacity" values="1;1;0;0" keyTimes="0.000;0.420;0.421;1.000" dur="10.0s" repeatCount="indefinite"/></text>
+<text class="m" x="820" y="242" font-size="12" text-anchor="middle" fill="#f85149" opacity="0">n1 killed · n4 runs for election<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.000;0.420;0.421;0.540;0.541;1.000" dur="10.0s" repeatCount="indefinite"/></text>
+<text class="m" x="820" y="242" font-size="12" text-anchor="middle" fill="#3fb950" opacity="0">term 8 · leader n4 · writes resume<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.000;0.540;0.541;1.000;1.001;1.000" dur="10.0s" repeatCount="indefinite"/></text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 268" width="480" height="268" role="img" aria-label="Bitcoin, from raw bytes: Chain analysis from block files, a BIP-174 PSBT builder and a transaction parser, each a CLI plus a web visualizer. 12 heuristics: CIOH, change detection, CoinJoin, peeling chains, each with a confidence model and failure modes">
+<title>Bitcoin, from raw bytes: Chain analysis from block files, a BIP-174 PSBT builder and a transaction parser, each a CLI plus a web visualizer. 12 heuristics: CIOH, change detection, CoinJoin, peeling chains, each with a confidence model and failure modes</title>
+<style>.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}</style>
+<defs>
+<linearGradient id="bitbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6f8fa"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<radialGradient id="bitg1" cx="0.92" cy="0.0" r="0.65"><stop offset="0" stop-color="#bf3989" stop-opacity="0.12"/><stop offset="1" stop-color="#bf3989" stop-opacity="0"/></radialGradient>
+<radialGradient id="bitg2" cx="0.0" cy="1.0" r="0.6"><stop offset="0" stop-color="#0969da" stop-opacity="0.08"/><stop offset="1" stop-color="#0969da" stop-opacity="0"/></radialGradient>
+<pattern id="bitdots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#e1e6eb"/></pattern>
+<clipPath id="bitclip"><rect x="1" y="1" width="478" height="266" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#bitclip)">
+<rect width="480" height="268" fill="url(#bitbg)"/>
+<rect width="480" height="268" fill="url(#bitdots)"/>
+<rect width="480" height="268" fill="url(#bitg1)"/>
+<rect width="480" height="268" fill="url(#bitg2)"/>
+</g>
+<rect x="0.5" y="0.5" width="479" height="267" rx="14" fill="none" stroke="#d1d9e0"/>
+<rect x="24" y="0" width="64" height="3" rx="1.5" fill="#bf3989"/>
+<text class="s" x="24" y="46" font-size="21" font-weight="700" fill="#1f2328">Bitcoin, from raw bytes</text>
+<circle cx="363.7" cy="41" r="5" fill="#bf3989"/>
+<text class="m" x="456" y="45" font-size="12" text-anchor="end" fill="#59636e">Python · TS</text>
+<text class="s" x="24" y="76" font-size="13.5" fill="#25292e">Chain analysis from block files, a BIP-174 PSBT builder and</text>
+<text class="s" x="24" y="96" font-size="13.5" fill="#25292e">a transaction parser, each a CLI plus a web visualizer.</text>
+<text class="s" x="23" y="158" font-size="34" font-weight="700" fill="#bf3989" letter-spacing="-0.5">12 heuristics</text>
+<text class="s" x="24" y="184" font-size="13" fill="#59636e">CIOH, change detection, CoinJoin, peeling chains,</text>
+<text class="s" x="24" y="202" font-size="13" fill="#59636e">each with a confidence model and failure modes</text>
+<rect x="24.0" y="222" width="77.4" height="24" rx="12.0" fill="#eef1f4" stroke="#d1d9e0"/><text class="m" x="35.0" y="238.1" font-size="11.5" fill="#59636e">sherlock</text>
+<rect x="109.4" y="222" width="70.5" height="24" rx="12.0" fill="#eef1f4" stroke="#d1d9e0"/><text class="m" x="120.4" y="238.1" font-size="11.5" fill="#59636e">txforge</text>
+<rect x="187.8" y="222" width="84.3" height="24" rx="12.0" fill="#eef1f4" stroke="#d1d9e0"/><text class="m" x="198.8" y="238.1" font-size="11.5" fill="#59636e">chainlens</text>
+<text class="m" x="456" y="238" font-size="12" text-anchor="end" fill="#bf3989">view repo ↗</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 658" width="1000" height="658" role="img" aria-label="Suvidh Jain, Backend &amp; distributed-systems engineer. A terminal runs make verify across the portfolio: 6 claims reproduce, 2 refuted results are kept on record.">
+<title>Suvidh Jain, Backend &amp; distributed-systems engineer. A terminal runs make verify across the portfolio: 6 claims reproduce, 2 refuted results are kept on record.</title>
+<style>.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}@keyframes p{0%,100%{opacity:1}50%{opacity:.35}}</style>
+<defs><clipPath id="r0"><rect x="54" y="342.0" height="25" width="0"><animate attributeName="width" from="0" to="892" begin="0.60s" dur="0.38s" fill="freeze"/></rect></clipPath><clipPath id="r1"><rect x="54" y="367.0" height="25" width="0"><animate attributeName="width" from="0" to="892" begin="1.02s" dur="0.38s" fill="freeze"/></rect></clipPath><clipPath id="r2"><rect x="54" y="392.0" height="25" width="0"><animate attributeName="width" from="0" to="892" begin="1.44s" dur="0.38s" fill="freeze"/></rect></clipPath><clipPath id="r3"><rect x="54" y="417.0" height="25" width="0"><animate attributeName="width" from="0" to="892" begin="1.86s" dur="0.38s" fill="freeze"/></rect></clipPath><clipPath id="r4"><rect x="54" y="442.0" height="25" width="0"><animate attributeName="width" from="0" to="892" begin="2.28s" dur="0.38s" fill="freeze"/></rect></clipPath><clipPath id="r5"><rect x="54" y="467.0" height="25" width="0"><animate attributeName="width" from="0" to="892" begin="2.70s" dur="0.38s" fill="freeze"/></rect></clipPath><clipPath id="r6"><rect x="54" y="492.0" height="25" width="0"><animate attributeName="width" from="0" to="892" begin="3.12s" dur="0.38s" fill="freeze"/></rect></clipPath><clipPath id="r7"><rect x="54" y="517.0" height="25" width="0"><animate attributeName="width" from="0" to="892" begin="3.54s" dur="0.38s" fill="freeze"/></rect></clipPath><clipPath id="r8"><rect x="54" y="567.0" height="25" width="0"><animate attributeName="width" from="0" to="892" begin="3.96s" dur="0.38s" fill="freeze"/></rect></clipPath></defs>
+<defs>
+<linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6f8fa"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<radialGradient id="hg1" cx="0.92" cy="0.0" r="0.65"><stop offset="0" stop-color="#0969da" stop-opacity="0.12"/><stop offset="1" stop-color="#0969da" stop-opacity="0"/></radialGradient>
+<radialGradient id="hg2" cx="0.0" cy="1.0" r="0.6"><stop offset="0" stop-color="#8250df" stop-opacity="0.08"/><stop offset="1" stop-color="#8250df" stop-opacity="0"/></radialGradient>
+<pattern id="hdots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#e1e6eb"/></pattern>
+<clipPath id="hclip"><rect x="1" y="1" width="998" height="656" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#hclip)">
+<rect width="1000" height="658" fill="url(#hbg)"/>
+<rect width="1000" height="658" fill="url(#hdots)"/>
+<rect width="1000" height="658" fill="url(#hg1)"/>
+<rect width="1000" height="658" fill="url(#hg2)"/>
+</g>
+<rect x="0.5" y="0.5" width="999" height="657" rx="16" fill="none" stroke="#d1d9e0"/>
+<rect x="36" y="34" width="369" height="28" rx="14" fill="#eef1f4" stroke="#d1d9e0"/>
+<circle cx="54" cy="48" r="4.5" fill="#1a7f37"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="54" cy="48" r="4.5" fill="none" stroke="#1a7f37" stroke-width="1.5"><animate attributeName="r" values="4.5;10" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="2.4s" repeatCount="indefinite"/></circle>
+<text class="m" x="68" y="52.5" font-size="12" fill="#25292e">open to SDE internships · 2027 new-grad roles</text>
+<text class="s" x="34" y="124" font-size="52" font-weight="700" fill="#1f2328" letter-spacing="-1">Suvidh Jain</text>
+<text class="s" x="36" y="160" font-size="20" font-weight="600" fill="#0969da">Backend &amp; distributed-systems engineer</text>
+<text class="s" x="36" y="192" font-size="15" fill="#59636e">I build systems, then the machinery that tries to break them:</text>
+<text class="s" x="36" y="213" font-size="15" fill="#59636e">crash harnesses, linearizability checkers, leakage tests,</text>
+<text class="s" x="36" y="234" font-size="15" fill="#59636e">hand-labelled evals and load tests at a million rows.</text>
+<rect x="584" y="34" width="380" height="196" rx="12" fill="#ffffff" fill-opacity="0.7" stroke="#d1d9e0"/>
+<text class="m" x="604" y="64" font-size="11.5" fill="#59636e" letter-spacing="1.5">RECORD</text>
+<text class="m" x="604" y="100" font-size="11.5" fill="#0969da">edu</text>
+<text class="s" x="660" y="100" font-size="14" fill="#25292e">VIT Vellore · B.Tech CSE '27 · CGPA 9.26</text>
+<text class="m" x="604" y="136" font-size="11.5" fill="#0969da">won</text>
+<text class="s" x="660" y="136" font-size="14" fill="#25292e">1st / 100+ teams · JPMC Code for Good '25</text>
+<text class="m" x="604" y="172" font-size="11.5" fill="#0969da">final</text>
+<text class="s" x="660" y="172" font-size="14" fill="#25292e">Intain FinTech Challenge 2026</text>
+<text class="m" x="604" y="208" font-size="11.5" fill="#0969da">work</text>
+<text class="s" x="660" y="208" font-size="14" fill="#25292e">Datamatics · HPE CPP · SentinelGuard AI</text>
+<rect x="36" y="262" width="928" height="360" rx="12" fill="#f6f8fa" stroke="#d1d9e0"/>
+<path d="M36 300 H964" stroke="#d1d9e0"/>
+<circle cx="58" cy="281" r="6" fill="#ff5f57"/>
+<circle cx="78" cy="281" r="6" fill="#febc2e"/>
+<circle cx="98" cy="281" r="6" fill="#28c840"/>
+<text class="m" x="500.0" y="285.5" font-size="12" fill="#59636e" text-anchor="middle">~/github.com/SuvidhJ — every number on this page, re-checked</text>
+<text class="m" x="58" y="333.5" font-size="13.5"><tspan fill="#1a7f37">➜</tspan><tspan fill="#0969da">  portfolio</tspan><tspan fill="#25292e"> make verify</tspan></text>
+<g clip-path="url(#r0)" font-size="13.5"><text class="m" x="58" y="358.5" fill="#1a7f37" font-weight="700">✓</text><text class="m" x="77.5" y="358.5" fill="#0969da">raft-kv</text><text class="m" x="166.9" y="358.5" fill="#25292e">0 of 177,568 acked writes lost across 200 leader crashes</text><text class="m" x="942" y="358.5" font-size="12" text-anchor="end" fill="#59636e">BENCHMARKS.md ↗</text></g>
+<g clip-path="url(#r1)" font-size="13.5"><text class="m" x="58" y="383.5" fill="#1a7f37" font-weight="700">✓</text><text class="m" x="77.5" y="383.5" fill="#0969da">raft-kv</text><text class="m" x="166.9" y="383.5" fill="#25292e">500/500 seeded chaos runs linearizable under Porcupine</text><text class="m" x="942" y="383.5" font-size="12" text-anchor="end" fill="#59636e">BENCHMARKS.md ↗</text></g>
+<g clip-path="url(#r2)" font-size="13.5"><text class="m" x="58" y="408.5" fill="#1a7f37" font-weight="700">✓</text><text class="m" x="77.5" y="408.5" fill="#0969da">gatehouse</text><text class="m" x="166.9" y="408.5" fill="#25292e">slowest endpoint 4,022 ms → 2–5 ms at 1,000,828 sessions</text><text class="m" x="942" y="408.5" font-size="12" text-anchor="end" fill="#59636e">METRICS.md ↗</text></g>
+<g clip-path="url(#r3)" font-size="13.5"><text class="m" x="58" y="433.5" fill="#1a7f37" font-weight="700">✓</text><text class="m" x="77.5" y="433.5" fill="#0969da">lpie</text><text class="m" x="166.9" y="433.5" fill="#25292e">12-month default AUC 0.973 out-of-time · 5/5 leaks caught</text><text class="m" x="942" y="433.5" font-size="12" text-anchor="end" fill="#59636e">model_card.md ↗</text></g>
+<g clip-path="url(#r4)" font-size="13.5"><text class="m" x="58" y="458.5" fill="#1a7f37" font-weight="700">✓</text><text class="m" x="77.5" y="458.5" fill="#0969da">handoff</text><text class="m" x="166.9" y="458.5" fill="#25292e">79 of 82 classifier errors escalated to a human, not sent</text><text class="m" x="942" y="458.5" font-size="12" text-anchor="end" fill="#59636e">REPORT.md ↗</text></g>
+<g clip-path="url(#r5)" font-size="13.5"><text class="m" x="58" y="483.5" fill="#1a7f37" font-weight="700">✓</text><text class="m" x="77.5" y="483.5" fill="#0969da">geo-api</text><text class="m" x="166.9" y="483.5" fill="#25292e">area within 0.25% of geodesic truth from 89°S to 89°N</text><text class="m" x="942" y="483.5" font-size="12" text-anchor="end" fill="#59636e">README#accuracy ↗</text></g>
+<g clip-path="url(#r6)" font-size="13.5"><text class="m" x="58" y="508.5" fill="#d1242f" font-weight="700">✗</text><text class="m" x="77.5" y="508.5" fill="#0969da">drift-rag</text><text class="m" x="166.9" y="508.5" fill="#d1242f">“3.00× over random” was a 3-seed artifact · withdrawn</text><text class="m" x="942" y="508.5" font-size="12" text-anchor="end" fill="#59636e">STATUS.md §4 ↗</text></g>
+<g clip-path="url(#r7)" font-size="13.5"><text class="m" x="58" y="533.5" fill="#d1242f" font-weight="700">✗</text><text class="m" x="77.5" y="533.5" fill="#0969da">lpie</text><text class="m" x="166.9" y="533.5" fill="#d1242f">confidence column runs backwards on 3 of 4 targets · kept</text><text class="m" x="942" y="533.5" font-size="12" text-anchor="end" fill="#59636e">decisions/D37 ↗</text></g>
+<text class="m" x="58" y="583.5" font-size="13.5" clip-path="url(#r8)"><tspan fill="#1a7f37" font-weight="700">6 reproduced</tspan><tspan fill="#59636e">  ·  </tspan><tspan fill="#d1242f" font-weight="700">2 refuted, kept on record</tspan><tspan fill="#59636e">  ·  every claim links to the file that produces it</tspan></text>
+<g opacity="0"><animate attributeName="opacity" to="1" begin="4.59s" dur="0.01s" fill="freeze"/><text class="m" x="58" y="608.5" font-size="13.5"><tspan fill="#1a7f37">➜</tspan><tspan fill="#0969da">  portfolio</tspan></text><rect x="163.7" y="597.0" width="8.1" height="14.5" fill="#25292e"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></rect></g>
+</svg>

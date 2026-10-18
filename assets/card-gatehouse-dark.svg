@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 268" width="480" height="268" role="img" aria-label="Gatehouse: Car-park control for a multi-storey mall: Postgres 17, Express 5, React 19, a live WebSocket floor plan. 4,022 → 2–5 ms: slowest endpoint at 1,000,828 sessions; check-out race failures 8/22 → 0; coverage 9.8% → 86%">
+<title>Gatehouse: Car-park control for a multi-storey mall: Postgres 17, Express 5, React 19, a live WebSocket floor plan. 4,022 → 2–5 ms: slowest endpoint at 1,000,828 sessions; check-out race failures 8/22 → 0; coverage 9.8% → 86%</title>
+<style>.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}</style>
+<defs>
+<linearGradient id="gatbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121a26"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<radialGradient id="gatg1" cx="0.92" cy="0.0" r="0.65"><stop offset="0" stop-color="#4493f8" stop-opacity="0.22"/><stop offset="1" stop-color="#4493f8" stop-opacity="0"/></radialGradient>
+<radialGradient id="gatg2" cx="0.0" cy="1.0" r="0.6"><stop offset="0" stop-color="#4493f8" stop-opacity="0.14"/><stop offset="1" stop-color="#4493f8" stop-opacity="0"/></radialGradient>
+<pattern id="gatdots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#262c36"/></pattern>
+<clipPath id="gatclip"><rect x="1" y="1" width="478" height="266" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#gatclip)">
+<rect width="480" height="268" fill="url(#gatbg)"/>
+<rect width="480" height="268" fill="url(#gatdots)"/>
+<rect width="480" height="268" fill="url(#gatg1)"/>
+<rect width="480" height="268" fill="url(#gatg2)"/>
+</g>
+<rect x="0.5" y="0.5" width="479" height="267" rx="14" fill="none" stroke="#3d444d"/>
+<rect x="24" y="0" width="64" height="3" rx="1.5" fill="#4493f8"/>
+<text class="s" x="24" y="46" font-size="21" font-weight="700" fill="#f0f6fc">Gatehouse</text>
+<circle cx="371.0" cy="41" r="5" fill="#4493f8"/>
+<text class="m" x="456" y="45" font-size="12" text-anchor="end" fill="#9198a1">TypeScript</text>
+<text class="s" x="24" y="76" font-size="13.5" fill="#d1d7e0">Car-park control for a multi-storey mall: Postgres 17,</text>
+<text class="s" x="24" y="96" font-size="13.5" fill="#d1d7e0">Express 5, React 19, a live WebSocket floor plan.</text>
+<text class="s" x="23" y="158" font-size="34" font-weight="700" fill="#4493f8" letter-spacing="-0.5">4,022 → 2–5 ms</text>
+<text class="s" x="24" y="184" font-size="13" fill="#9198a1">slowest endpoint at 1,000,828 sessions; check-out</text>
+<text class="s" x="24" y="202" font-size="13" fill="#9198a1">race failures 8/22 → 0; coverage 9.8% → 86%</text>
+<rect x="24.0" y="222" width="77.4" height="24" rx="12.0" fill="#1c2330" stroke="#3d444d"/><text class="m" x="35.0" y="238.1" font-size="11.5" fill="#9198a1">Postgres</text>
+<rect x="109.4" y="222" width="98.2" height="24" rx="12.0" fill="#1c2330" stroke="#3d444d"/><text class="m" x="120.4" y="238.1" font-size="11.5" fill="#9198a1">load-tested</text>
+<rect x="215.5" y="222" width="84.3" height="24" rx="12.0" fill="#1c2330" stroke="#3d444d"/><text class="m" x="226.5" y="238.1" font-size="11.5" fill="#9198a1">172 tests</text>
+<text class="m" x="456" y="238" font-size="12" text-anchor="end" fill="#4493f8">view repo ↗</text>
+</svg>

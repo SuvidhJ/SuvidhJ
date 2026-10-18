@@ -1,208 +1,139 @@
-<div align="center">
-
-  <h1>Hi, I'm <strong>Suvidh</strong> 👋</h1>
-
-  <p>
-    I architect, code, and ship across the stack — from low‑level systems to delightful DX.
-    Clean abstractions. Relentless performance. Pragmatic elegance.
-  </p>
-
-  <!-- Typing intro (subtle, centered, dark‑mode friendly) -->
-  <a href="https://github.com/SuvidhJ">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&duration=2500&pause=600&center=true&vCenter=true&width=950&height=40&lines=Shipping%20impactful%20software%20end%20to%20end;%F0%9F%9A%80%20Developer%20who%20does%20%E2%80%9Cmost%20things%E2%80%9D%20%E2%80%94%20and%20does%20them%20well;Open%E2%80%91source%20driven%20%E2%80%A2%20System%20design%20obsessed%20%E2%80%A2%20DX%20craftsman"
-      alt="Intro"
-    />
-  </a>
-  
-  <!--<div align="center">
-    <img alt="Animated banner" src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="900" height="80" viewBox="0 0 900 80"><defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="%233b82f6"><animate attributeName="stop-color" values="%233b82f6;%2322c55e;%23a78bfa;%233b82f6" dur="6s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="%2322c55e"><animate attributeName="stop-color" values="%2322c55e;%23a78bfa;%233b82f6;%2322c55e" dur="6s" repeatCount="indefinite"/></stop></linearGradient></defs><rect width="900" height="80" rx="12" fill="url(%23g)"/><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" fill="white">Shipping impactful software end to end • Systems design obsessed • DX craftsman</text></svg>' style="max-width:100%;height:auto;border-radius:12px;" />
-  </div>-->
-
-  <!-- Follow + Contact (all live, no hard-coded numbers) -->
-  <p>
-    <a href="https://github.com/SuvidhJ">
-      <img src="https://img.shields.io/github/followers/SuvidhJ?label=Followers&logo=github&style=for-the-badge" alt="GitHub followers" />
-    </a>
-    <a href="mailto:suvidh.jain3@gmail.com">
-      <img src="https://img.shields.io/badge/Email-suvidh.jain3@gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://portfolio-zeta-two-58.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <!-- Optional socials -->
-<!--     <a href="https://twitter.com/<TWITTER_HANDLE>">
-      <img src="https://img.shields.io/badge/Twitter-@<TWITTER_HANDLE>-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
-    </a> -->
-    <a href="https://www.linkedin.com/in/suvidh-jain-72a88728a/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
-
-</div>
-
----
-
-<!-- Snapshot: who you are, what you value -->
-### TL;DR
-- I design, build, and scale software that earns its keep.
-- Bias to action, strong fundamentals, and a ruthless eye for developer experience.
-- Interests: distributed systems, high‑performance APIs, AI tooling, build systems, infra-as-code, observability.
-
-> Engineering is the art of orchestrating trade‑offs with taste.
-
----
-
-### Toolbox (selected)
-<div align="center">
-
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=ts,js,go,python,rust,java,cs&perline=14" alt="Languages" /><br/>
-
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,astro,vite,tailwind&perline=14" alt="Frontend" /><br/>
-
-  <!-- Backend / Runtime -->
-  <img src="https://skillicons.dev/icons?i=nodejs,deno,bun,express,nestjs,fastapi,django,spring&perline=14" alt="Backend" /><br/>
-
-  <!-- Cloud / DevOps / Data -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,nginx,postgres,redis,kafka,rabbitmq&perline=14" alt="Cloud/DevOps/Data" /><br/>
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,neovim,postman,figma&perline=14" alt="Tools" />
-
-</div>
-
----
-
-### Projects I’m proud of
-<!-- Replace repo names below with your real repos.
-     These pinned cards are live and pull metadata from GitHub in real time. -->
-
-<div align="center">
-
-  <a href="https://github.com/SuvidhJ/awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=Portfolio&show_owner=true&hide_border=true&theme=transparent" alt="awesome-project" />
-  </a>
-  <a href="https://github.com/SuvidhJ/cli-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=Recruitment_MFC&show_owner=true&hide_border=true&theme=transparent" alt="cli-toolkit" />
-  </a>
-  <br/>
-  <a href="https://github.com/SuvidhJ/ai-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=Mental-Health-WebApp&show_owner=true&hide_border=true&theme=transparent" alt="ai-engine" />
-  </a>
-  <a href="https://github.com/SuvidhJ/infra-as-code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=Roommate-Dhoondho&show_owner=true&hide_border=true&theme=transparent" alt="infra-as-code" />
-  </a>
-  <br/>
-  <a href="https://github.com/SuvidhJ/design-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=Chat_application&show_owner=true&hide_border=true&theme=transparent" alt="design-system" />
-  </a>
-  <a href="https://github.com/SuvidhJ/data-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuvidhJ&repo=SIH-SAI&show_owner=true&hide_border=true&theme=transparent" alt="data-pipeline" />
-  </a>
-
-</div>
-
----
-
-### By the numbers (auto‑updating, live)
-
-<div align="center">
-
-  <!-- GitHub Stats (dark/light aware) -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=SuvidhJ&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=SuvidhJ&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=SuvidhJ&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" alt="GitHub stats" />
-  </picture>
-
-  <!-- Streak -->
-  <picture>
-    <source
-      srcset="https://streak-stats.demolab.com?user=SuvidhJ&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=467&theme=github-dark-blue"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com?user=SuvidhJ&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=467"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://streak-stats.demolab.com?user=SuvidhJ&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=467" alt="GitHub streak" />
-  </picture>
-
-  <!-- Top Languages -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvidhJ&layout=compact&langs_count=10&hide_border=true&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvidhJ&layout=compact&langs_count=10&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvidhJ&layout=compact&langs_count=10&hide_border=true" alt="Top languages" />
-  </picture>
-
-</div>
-
-<!-- Trophies (tasteful row, no frames) -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SuvidhJ&theme=onedark&no-bg=true&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-</div>
-
-<!-- Activity Graph (live) -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuvidhJ&radius=8&area=true&bg_color=transparent&hide_border=true&color=3b82f6&line=22c55e&point=3b82f6&area_color=22c55e&custom_title=Contribution%20Graph" alt="Activity Graph" />
-</div>
-
-<!-- Optional: WakaTime (if you use it) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SuvidhJ&layout=compact&hide_border=true&theme=transparent" alt="WakaTime" />
-</div>
-
----
-
-### Principles I ship by
-- Fewer, better primitives. Surfaces that scale.
-- Measure twice, cut once; automate the rest.
-- Optimize the hot path; keep cold paths simple.
-- Leave things better than I found them.
-
----
-
-### Get in touch
-- Email: suvidh.jain3@gmail.com
-- Site: https://portfolio-zeta-two-58.vercel.app/
-- Location: Surat
-<!-- - Twitter: https://twitter.com/<TWITTER_HANDLE> -->
-- LinkedIn: https://www.linkedin.com/in/suvidh-jain-72a88728a/
-
-<!-- Optional: Snake (enable the workflow below, then uncomment) -->
-
-### Activity (fun)
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuvidhJ/SuvidhJ/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Snake" src="https://raw.githubusercontent.com/SuvidhJ/SuvidhJ/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <img src="./assets/hero-light.svg" width="100%" alt="Suvidh Jain, backend and distributed-systems engineer. A terminal runs make verify across the portfolio: six claims reproduce, two refuted results are kept on record, and each line names the file that produces it.">
 </picture>
 
+<p align="center">
+<!-- Commit resume.pdf to this repo, then uncomment. It is the link recruiters click first.
+<a href="./resume.pdf"><img alt="Résumé" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-1f883d?style=for-the-badge"></a>
+-->
+<a href="mailto:suvidh.jain3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-suvidh.jain3%40gmail.com-1f883d?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/suvidh-jain-72a88728a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-suvidh--jain-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://suvidh.is-a.dev"><img alt="Website" src="https://img.shields.io/badge/site-suvidh.is--a.dev-24292f?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+</p>
 
-<!-- Optional: Lowlighter Metrics (enable the workflow below, then uncomment) -->
+**Every number on this page links to the file that produces it.** I build backend and distributed systems, and then the machinery that tries to break them. When a result doesn't survive that, the repo says so, and so does this page.
 
-### Deep‑dive metrics
-<img src="./metrics.svg" alt="GitHub Metrics (auto‑generated)"  align="center"/>
+<br>
 
-## Recent GitHub Activity
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-2. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-3. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-4. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-5. ⬆️ Pushed undefined commit(s) to [SuvidhJ/SuvidhJ](https://github.com/SuvidhJ/SuvidhJ)<br>
-<!--RECENT_ACTIVITY:end-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/rule-flagship-dark.svg">
+  <img src="./assets/rule-flagship-light.svg" width="100%" alt="Flagship">
+</picture>
 
+<a href="https://github.com/SuvidhJ/Raft_Consensus_Algorithm">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/raft-dark.svg">
+  <img src="./assets/raft-light.svg" width="100%" alt="raft-kv: Raft written from scratch in Go and chaos-tested. 0 of 177,568 acknowledged writes lost across 200 leader crashes; 500 of 500 chaos runs linearizable; 5 consensus bugs found; p99 write recovery 514 ms.">
+</picture>
+</a>
+
+- **0 of 177,568** acknowledged writes lost across **200 forced leader crashes**, every key checked with no sampling. Writes resume in 353 ms median, 514 ms p99. The leader *process* is hard-killed each time, then restarted from its WAL · [`docs/BENCHMARKS.md`](https://github.com/SuvidhJ/Raft_Consensus_Algorithm/blob/main/docs/BENCHMARKS.md#1-leader-crash-failover-cmdfailover)
+- **500 / 500** seeded chaos runs linearizable under [Porcupine](https://github.com/anishathalye/porcupine): 118,948 operations through 1,426 node crashes, 2,830 partitions and ~195k dropped messages · [`tests/chaos_test.go`](https://github.com/SuvidhJ/Raft_Consensus_Algorithm/blob/main/tests/chaos_test.go)
+- **8 consensus bugs** caught by testing, all of which had passed the unit and integration suites: 3 by the chaos suite and 5 by the failover benchmark, including a State Machine Safety violation where a restarted ex-leader applied uncommitted entries. Each is pinned by a regression test. The fixes cut p99 recovery from **1,140 ms to 514 ms** and post-crash leader churn from **38% to 0%** · [`docs/CORRECTNESS.md`](https://github.com/SuvidhJ/Raft_Consensus_Algorithm/blob/main/docs/CORRECTNESS.md#bugs-the-failover-benchmark-caught)
+
+<details>
+<summary><b>The bug worth reading:</b> a livelock that unit and integration tests couldn't see</summary>
+<br>
+
+A node rejected pre-votes while it believed a leader was alive: `leader != 0 && now < electionDeadline`. But every node resets its *own* deadline after a failed pre-vote. After certain partition sequences, every node stayed a follower and took turns failing pre-vote against the others' freshly reset deadlines. The result was no leader, indefinitely. Unit and integration suites passed clean; only the chaos harness found it. The fix anchors rejection to the last *genuine* contact from a leader, not to a deadline the node moves itself.
+
+</details>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/rule-work-dark.svg">
+  <img src="./assets/rule-work-light.svg" width="100%" alt="Selected work">
+</picture>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/SuvidhJ/Handoff"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-handoff-dark.svg"><img src="./assets/card-handoff-light.svg" width="100%" alt="Handoff: a support agent that escalates 79 of 82 classifier errors to a person instead of sending them."></picture></a>
+<sub><b>Evidence</b> · <a href="https://github.com/SuvidhJ/Handoff/blob/main/reports/REPORT.md">REPORT.md</a> · <a href="https://github.com/SuvidhJ/Handoff/blob/main/README.md#what-is-misleading-about-the-headline-number">what the headline hides</a> · <a href="https://suvidhj.github.io/Handoff/">live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/SuvidhJ/Loan-Performance-Intelligence-Engine"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-lpie-dark.svg"><img src="./assets/card-lpie-light.svg" width="100%" alt="Loan Performance Engine: 12-month default AUC 0.973 out-of-time on 8M Freddie Mac loan-months."></picture></a>
+<sub><b>Evidence</b> · <a href="https://github.com/SuvidhJ/Loan-Performance-Intelligence-Engine/blob/main/reports/model_card.md">model card</a> · <a href="https://github.com/SuvidhJ/Loan-Performance-Intelligence-Engine/blob/main/reports/explainability.md">confidence intervals</a> · <a href="https://github.com/SuvidhJ/Loan-Performance-Intelligence-Engine/tree/main/docs/decisions">decision register</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/SuvidhJ/gatehouse"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-gatehouse-dark.svg"><img src="./assets/card-gatehouse-light.svg" width="100%" alt="Gatehouse: slowest endpoint 4,022 ms to 2–5 ms at 1,000,828 sessions."></picture></a>
+<sub><b>Evidence</b> · <a href="https://github.com/SuvidhJ/gatehouse/blob/main/METRICS.md">METRICS.md</a>, with the "before" figures kept</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/SuvidhJ/Drift-aware-RAG-Label-free-detection-of-retrieval-degradation"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-drift-rag-dark.svg"><img src="./assets/card-drift-rag-light.svg" width="100%" alt="Drift-Aware RAG: a drift threshold moved to 10x less traffic gives 100% false alarms, so the pipeline reports calibrated z-scores."></picture></a>
+<sub><b>Evidence</b> · <a href="https://github.com/SuvidhJ/Drift-aware-RAG-Label-free-detection-of-retrieval-degradation/blob/main/STATUS.md">STATUS.md</a> · <a href="https://github.com/SuvidhJ/Drift-aware-RAG-Label-free-detection-of-retrieval-degradation/blob/main/FINDINGS.md">FINDINGS.md</a> · <code>python main.py transfer</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/SuvidhJ/Geospatial-file-measurement-API"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-geo-api-dark.svg"><img src="./assets/card-geo-api-light.svg" width="100%" alt="Geospatial Measurement API: area error under 0.25% against geodesic truth from 89 degrees south to 89 north."></picture></a>
+<sub><b>Evidence</b> · <a href="https://github.com/SuvidhJ/Geospatial-file-measurement-API#accuracy-validation">accuracy report</a> · <a href="https://github.com/SuvidhJ/Geospatial-file-measurement-API/blob/main/SECURITY.md">threat model</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/SuvidhJ/sherlock-chain-analysis"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-bitcoin-dark.svg"><img src="./assets/card-bitcoin-light.svg" width="100%" alt="Bitcoin from raw bytes: chain analysis, a PSBT builder and a transaction parser, with 12 chain-analysis heuristics."></picture></a>
+<sub><b>Evidence</b> · <a href="https://github.com/SuvidhJ/sherlock-chain-analysis/blob/main/APPROACH.md">APPROACH.md</a> · <a href="https://github.com/SuvidhJ/txforge">txforge</a> · <a href="https://github.com/SuvidhJ/chainlens-explorer">chainlens</a> · graded on hidden fixtures</sub>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More:</b> bytecode reverse-engineering, QUIC policing at HPE, an AI code reviewer, upstream work</summary>
+<br>
+
+- [**EvmPulse**](https://github.com/SuvidhJ/EvmPulse): EVM bytecode reverse-engineering without source. Disassembly, control-flow graphs, selector resolution, proxy and reentrancy detection. Analysis of 13 real contracts and a tool-vs-source walkthrough on USDT · [RESEARCH.md](https://github.com/SuvidhJ/EvmPulse/blob/main/RESEARCH.md)
+- [**QUIC identification and policing**](https://github.com/SuvidhJ/QUIC_Identification_and_Policing_HPE_CPP), built in HPE's Career Preview Program. An XGBoost model over sliding-window flow features classifies mirrored traffic, and the results drive Open vSwitch HTB queues and OpenFlow drop rules on IP, port and SNI · [demo](https://drive.google.com/file/d/1E00MFvj-J8lbFSxvHHEGhii9fvGoAayh/view)
+- [**Argus code reviewer**](https://github.com/SuvidhJ/AI_Code_Reviewer): multi-agent PR review with a verification pass against false positives. It learns from accept and reject feedback through Beta-Bernoulli calibration and ships with an eval corpus of trap cases · 339 deterministic tests
+- [**Incident-triage**](https://github.com/SuvidhJ/Incident-triage): an OpenEnv benchmark where an agent triages SRE incidents to a severity, owner and root cause
+- [**ASmap analysis**](https://github.com/SuvidhJ/ASMAP-Competency-Tests): a fresh ASmap from RPKI, IRR and Routeviews, diffed against a pinned baseline with Bitcoin Core's tooling
+- **Upstream:** [quick-select date filters](https://github.com/QuoteVote/quotevote-monorepo/pull/263), merged into QuoteVote
+
+**Now:** [ARGUS](https://github.com/SuvidhJ/FAEC), a calibrated, topology-aware control plane for proactive fault tolerance in fog computing. No experiments have run yet, and a test fails the build if a placeholder number appears anywhere in the repo.
+
+</details>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/rule-record-dark.svg">
+  <img src="./assets/rule-record-light.svg" width="100%" alt="On the record: what didn't hold">
+</picture>
+
+A result is only worth something if the process could have produced a different one. These stay on record.
+
+| | What went wrong | Where it's kept |
+| :-: | :-- | :-- |
+| ✗ | **A shipped column that ran backwards.** The loan engine's `confidence` output went into every submission row untested. Against a rule fixed in advance, it worked on one of four targets. On the other three it runs backwards: errors concentrate where the model agrees with itself, 6.7× on prepayment | [D37](https://github.com/SuvidhJ/Loan-Performance-Intelligence-Engine/blob/main/docs/decisions/D37-rules-and-confidence.md), one of [12 falsified claims](https://github.com/SuvidhJ/Loan-Performance-Intelligence-Engine/tree/main/docs/decisions) |
+| ✗ | **Seven published numbers, withdrawn.** Drift-Aware RAG's "3.00× better than random" was a 3-seed artifact; at 30 seeds it is 1.09×, p = 0.39. Its headline "blind spot" turned out to predict damage at AUC 0.77. Both are refuted in the repo, not deleted | [STATUS.md §4](https://github.com/SuvidhJ/Drift-aware-RAG-Label-free-detection-of-retrieval-degradation/blob/main/STATUS.md#4-numbers-that-were-published-and-are-now-withdrawn) |
+| ✗ | **A better number I didn't report.** Keeping a duplicated thread, quoting the best of five seeds and reporting accuracy instead of macro-F1 would have shown Handoff's classifier at 0.725, not 0.640. The harness runs both and prints the gap | [what the headline hides](https://github.com/SuvidhJ/Handoff/blob/main/README.md#what-is-misleading-about-the-headline-number) |
+| ✗ | **Five rounds on the wrong axis.** A fixture copied loan age into the calendar column, so the "out-of-time" splits were age splits. It is now a structural control with a test | [controls](https://github.com/SuvidhJ/Loan-Performance-Intelligence-Engine#the-three-structural-controls) |
+| ✗ | **433–515 duplicate ticket codes per million** in Gatehouse's first published version. Now zero, with the before figures still published | [METRICS.md](https://github.com/SuvidhJ/gatehouse/blob/main/METRICS.md) |
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/rule-experience-dark.svg">
+  <img src="./assets/rule-experience-light.svg" width="100%" alt="Experience">
+</picture>
+
+| | | |
+| :-- | :-- | :-- |
+| **Datamatics** | 2026 | GraphRAG compliance assistant for the EU AI Act: LangGraph agents over a Neo4j knowledge graph |
+| **Hewlett Packard Enterprise** · Career Preview Program | 2026 | QUIC flow identification and traffic policing with XGBoost and Open vSwitch |
+| **SentinelGuard AI** · co-founder, founding engineer | 2024–25 | gRPC services on Kubernetes, observed with Prometheus and Grafana |
+| **Myciti 360** | 2025 | YOLOv8 computer-vision pipeline at 97.1% precision |
+| **S M Techno Consultants** | 2024–25 | Next.js frontend with SSR, tested with Jest and Playwright |
+
+🏆 **1st of 100+ teams**, J.P. Morgan Code for Good 2025 · **Finalist**, Intain FinTech Challenge 2026 · **Head of Projects**, Mozilla Firefox Club VIT · **VIT Vellore**, B.Tech CSE 2027, CGPA 9.26
+
+**Stack:** **Go** · **Python** · **C++** · **TypeScript** · Java · gRPC · Postgres · Redis · RabbitMQ · Docker · Kubernetes · AWS · Prometheus · PyTorch · scikit-learn · LangGraph · Neo4j
+
+<br>
+
+<p align="center">
+<b>Open to SDE internships and 2027 new-grad roles in systems, backend and ML infrastructure.</b><br>
+<sub>If your system has to stay correct when things go wrong, <a href="mailto:suvidh.jain3@gmail.com">let's talk</a>.</sub>
+</p>
