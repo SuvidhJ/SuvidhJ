@@ -91,7 +91,6 @@ A node rejected pre-votes while it believed a leader was alive: `leader != 0 && 
 - [**ASmap analysis**](https://github.com/SuvidhJ/ASMAP-Competency-Tests): a fresh ASmap from RPKI, IRR and Routeviews, diffed against a pinned baseline with Bitcoin Core's tooling
 - **Upstream:** [quick-select date filters](https://github.com/QuoteVote/quotevote-monorepo/pull/263), merged into QuoteVote
 
-**Now:** [ARGUS](https://github.com/SuvidhJ/FAEC), a calibrated, topology-aware control plane for proactive fault tolerance in fog computing. No experiments have run yet, and a test fails the build if a placeholder number appears anywhere in the repo.
 
 </details>
 
